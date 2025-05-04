@@ -1,0 +1,13 @@
+# Ignore Google Colab and system files
+.config/
+__pycache__/
+*.log
+*.db
+
+# Ignore model weights (store externally or via HuggingFace)
+*.gguf
+*.bin
+
+# Ignore large raw datasets
+sample_data/
+data/raw/
