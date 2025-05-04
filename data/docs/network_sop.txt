@@ -1,0 +1,5 @@
+To restart networking services on Linux:
+1. sudo systemctl restart NetworkManager
+2. sudo systemctl restart network.service
+
+Always verify with: systemctl status NetworkManager
