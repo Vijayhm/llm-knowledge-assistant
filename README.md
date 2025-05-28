@@ -130,4 +130,8 @@ Use: systemctl status NetworkManager to verify.
 
 **Vijay Manjunath**
 AI + Systems Engineer
-[GitHub](https://github.com/YOUR_USERNAME) | [LinkedIn](https://linkedin.com/in/YOUR_LINK)
+[GitHub](https://github.com/Vijayhm) | [LinkedIn](https://www.linkedin.com/in/vijay-manjunath/)
+
+**Sai Priya Vayasi**
+ML Engineer
+[GitHub](https://github.com/Vayasis) | [LinkedIn](https://www.linkedin.com/in/priya-vayasi/)
